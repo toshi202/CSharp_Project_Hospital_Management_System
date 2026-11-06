@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|c:\\users\\asus\\onedrive\\desktop\\hospitalmangement\\hospitalmangement\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\appoinmentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\appoinmentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\appoinmentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\appoinmentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\depeartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\depeartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\depeartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\depeartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\userinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\userinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\applicationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\applicationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\record.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\record.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\hospitalmangement\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDDC17A-FF73-45EC-866C-A064C259AD2B}|HospitalMangement\\HospitalMangement.csproj|solutionrelative:hospitalmangement\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Program.cs",
+              "RelativeToolTip": "HospitalMangement\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:45:10.954Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\BillInfo.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\BillInfo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\BillInfo.cs [Design]",
+              "RelativeToolTip": "HospitalMangement\\BillInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:18:25.207Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\UserInfo.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\UserInfo.cs [Design]",
+              "RelativeToolTip": "HospitalMangement\\UserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T07:53:23.103Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\UserInfo.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\UserInfo.cs",
+              "RelativeToolTip": "HospitalMangement\\UserInfo.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAIwMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:44:46.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Record.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Record.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\Record.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Record.cs [Design]",
+              "RelativeToolTip": "HospitalMangement\\Record.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T05:49:30.545Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Record.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Record.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\Record.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Record.cs",
+              "RelativeToolTip": "HospitalMangement\\Record.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAYwLAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T07:55:05.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppoinmentInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\AppoinmentInfo.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\AppoinmentInfo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\AppoinmentInfo.cs",
+              "RelativeToolTip": "HospitalMangement\\AppoinmentInfo.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:03:22.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppoinmentInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\AppoinmentInfo.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\AppoinmentInfo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\AppoinmentInfo.cs [Design]",
+              "RelativeToolTip": "HospitalMangement\\AppoinmentInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:02:28.965Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\SignIn.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\SignIn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\SignIn.cs",
+              "RelativeToolTip": "HospitalMangement\\SignIn.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:47:52.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\SignIn.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\SignIn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\SignIn.cs [Design]",
+              "RelativeToolTip": "HospitalMangement\\SignIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T21:09:59.653Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\AdminForm.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\AdminForm.cs",
+              "RelativeToolTip": "HospitalMangement\\AdminForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvxwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:39:38.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\AdminForm.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\AdminForm.cs [Design]",
+              "RelativeToolTip": "HospitalMangement\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:31:08.978Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BillInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\BillInfo.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\BillInfo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\BillInfo.cs",
+              "RelativeToolTip": "HospitalMangement\\BillInfo.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAK4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T07:49:15.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Patient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\Patient.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Patient.cs [Design]",
+              "RelativeToolTip": "HospitalMangement\\Patient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:57:27.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\LogIn.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\LogIn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\LogIn.cs",
+              "RelativeToolTip": "HospitalMangement\\LogIn.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAACkAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:16:24.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\LogIn.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\LogIn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\LogIn.cs [Design]",
+              "RelativeToolTip": "HospitalMangement\\LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:06:46.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\HomePage.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\HomePage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\HomePage.cs",
+              "RelativeToolTip": "HospitalMangement\\HomePage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:08:54.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\HomePage.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\HomePage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\HomePage.cs [Design]",
+              "RelativeToolTip": "HospitalMangement\\HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:41:06.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Depeartment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Depeartment.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\Depeartment.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Depeartment.cs [Design]",
+              "RelativeToolTip": "HospitalMangement\\Depeartment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:31:39.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Depeartment.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Depeartment.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\Depeartment.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Depeartment.cs",
+              "RelativeToolTip": "HospitalMangement\\Depeartment.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:45:43.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Admin.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\Admin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Admin.cs",
+              "RelativeToolTip": "HospitalMangement\\Admin.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:22:57.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Admin.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\Admin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Admin.cs [Design]",
+              "RelativeToolTip": "HospitalMangement\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T07:45:51.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserInfo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\UserInfo.Designer.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\UserInfo.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\UserInfo.Designer.cs",
+              "RelativeToolTip": "HospitalMangement\\UserInfo.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAIwF8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T21:07:34.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\ApplicationHelper.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\ApplicationHelper.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\ApplicationHelper.cs",
+              "RelativeToolTip": "HospitalMangement\\ApplicationHelper.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:41:17.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Record.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Record.Designer.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\Record.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\Record.Designer.cs",
+              "RelativeToolTip": "HospitalMangement\\Record.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:20:10.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LogIn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\LogIn.Designer.cs",
+              "RelativeDocumentMoniker": "HospitalMangement\\LogIn.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HospitalMangement\\HospitalMangement\\LogIn.Designer.cs",
+              "RelativeToolTip": "HospitalMangement\\LogIn.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAMwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:20:33.041Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
